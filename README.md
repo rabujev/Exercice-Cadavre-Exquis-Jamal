@@ -5,5 +5,5 @@ Un beau matin, il se réveille et se rend compte qu'il a été cambriolé durant
 Sauf que Bob, étant très pessimiste, avait pris ses précautions.
 
 "Il faut que je retourne encore acheté une télévision, c'est déjà la 5ème cette semaine.."
-*Il faut savoir qu'il n'était encore que mardi...*$
+*Il faut savoir qu'il n'était encore que mardi...*
 "De toute façon ça n'arrive qu'à moi ce genre de chose..."
