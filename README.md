@@ -7,3 +7,9 @@ Sauf que Bob, étant très pessimiste, avait pris ses précautions.
 "Il faut que je retourne encore acheté une télévision, c'est déjà la 5ème cette semaine.."
 *Il faut savoir qu'il n'était encore que mardi...*
 "De toute façon ça n'arrive qu'à moi ce genre de chose..."
+
+
+Il rendit chez sont revendeur d'occasion et qu'elle ne fût pas sa surprise de rertrouver une des télévisions qui lui avait été dérober la semaine dernière .
+Ni une ni deux il décida de mener l'enquête ...
+
+## Investigation
